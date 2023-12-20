@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Day03;
+
+class Program 
+{
+	static void Main() 
+	{
+		Animal animal = new Animal(3, "HELLO");
+	}
+}

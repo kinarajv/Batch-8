@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 8\\Day02\\Day02.csproj": {}
+    "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 8\\Day02\\Day02.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 8\\Day02\\Day02.csproj": {
+    "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 8\\Day02\\Day02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 8\\Day02\\Day02.csproj",
+        "projectUniqueName": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 8\\Day02\\Day02.csproj",
         "projectName": "Day02",
-        "projectPath": "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 8\\Day02\\Day02.csproj",
+        "projectPath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 8\\Day02\\Day02.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 8\\Day02\\obj\\",
+        "outputPath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Batch 8\\Day02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
